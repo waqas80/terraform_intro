@@ -8,3 +8,5 @@ Below commands are used to create resources
 
 To destory the resources
 1. $ ../terraform destroy
+
+More detail you can find at http://geeksstack.com/aws-instance-creation-with-terraform/
